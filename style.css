@@ -1,0 +1,811 @@
+
+
+.home-light {
+  background-color: #ffffff;
+  display:flex;
+  flex-direction: row;
+  justify-content:center;
+  width: 100%;
+}
+
+.home-light .div {
+  background-color: #ffffff;
+  width:100%;
+  height:100%;
+  position: relative;
+}
+
+.home-light .hello {
+  position: absolute;
+  width: 199px;
+  height: 72px;
+  top: 300px;
+  left: 269px;
+}
+
+.home-light .overlap-group {
+  position: relative;
+  width: 197px;
+  height: 72px;
+  background-image: url(./img/message-box.png);
+  background-size: 100% 100%;
+}
+
+.home-light .text-wrapper {
+  position: absolute;
+  width: 111px;
+  top: 19px;
+  left: 44px;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-light .tag-line {
+  position: absolute;
+  width: 626px;
+  height: 77px;
+  top: 470px;
+  left: 269px;
+}
+
+.home-light .UI-UX-designer-front {
+  position: absolute;
+  width: 624px;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-light .navbar {
+  position: absolute;
+  top: 59px;
+  left: 110px;
+
+}
+
+.home-light .text-wrapper-2 {
+  position: absolute;
+  width: 265px;
+  top: 2px;
+  left: 55px;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-light .text-wrapper-3 {
+  width: 57px;
+  left: 1038px;
+  position: absolute;
+  top: 6px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #b73636;
+  font-size: 20px;
+  
+  
+}
+
+.home-light .text-wrapper-4 {
+  width: 57px;
+  left: 927px;
+  position: absolute;
+  top: 6px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  
+}
+
+.home-light .text-wrapper-5 {
+  width: 75px;
+  left: 1149px;
+  position: absolute;
+  top: 6px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+
+}
+
+.home-light .text-wrapper-6 {
+  width: 78px;
+  left: 1380px;
+  position: absolute;
+  top: 6px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+}
+
+.home-light .text-wrapper-7 {
+  width: 48px;
+  left: 1278px;
+  position: absolute;
+  top: 6px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+}
+
+.home-light .text-wrapper-8 {
+  position: absolute;
+  width: 73px;
+  top: 6px;
+  left: 1512px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+}
+
+.home-light .logo {
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.home-light .moon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 1659px;
+}
+
+.home-light .socials-links {
+  position: absolute;
+  width: 36px;
+  height: 321px;
+  top: 649px;
+  left: 112px;
+}
+
+.home-light .telegram {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 241px;
+  left: 1px;
+}
+
+.home-light .facebook {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 0;
+  left: 1px;
+}
+
+.home-light .instagram {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 49px;
+  left: 1px;
+}
+
+.home-light .twitter {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 98px;
+  left: 0;
+}
+
+.home-light .git-hub {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 145px;
+  left: 1px;
+}
+
+.home-light .linked-in {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 192px;
+  left: 1px;
+}
+
+.home-light .koo {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 289px;
+  left: 1px;
+}
+
+.home-light .overlap {
+  position: absolute;
+  width: 719px;
+  height: 829px;
+  top: 192px;
+  left: 1116px;
+}
+
+.home-light .email {
+  position: absolute;
+  width: 32px;
+  height: 267px;
+  top: 562px;
+  left: 662px;
+}
+
+.home-light .text-wrapper-9 {
+  position: absolute;
+  width: 216px;
+  height: 19px;
+  top: 98px;
+  left: -94px;
+  transform: rotate(-90deg);
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-light .small-line {
+  position: absolute;
+  width: 30px;
+  height: 6px;
+  top: 261px;
+  left: 0;
+}
+
+.home-light .image {
+  position: absolute;
+  width: 719px;
+  height: 712px;
+  top: 0;
+  left: 0;
+}
+
+.home-light .overlap-2 {
+  position: relative;
+  width: 625px;
+  height: 647px;
+  top: 61px;
+  left: 27px;
+}
+
+.home-light .hero-background {
+  position: absolute;
+  width: 625px;
+  height: 644px;
+  top: 4px;
+  left: 0;
+}
+
+.home-light .hero-image {
+  position: absolute;
+  width: 500px;
+  height: 575px;
+  top: 0;
+  left: 32px;
+  object-fit: cover;
+}
+
+.home-light .anish-wave {
+  position: absolute;
+  width: 340px;
+  height: 83px;
+  top: 400px;
+  left: 255px;
+}
+
+.home-light .overlap-3 {
+  position: absolute;
+  width: 288px;
+  height: 83px;
+  top: 0;
+  left: 0;
+}
+
+.home-light .underline {
+  position: absolute;
+  width: 167px;
+  height: 8px;
+  top: 75px;
+  left: 110px;
+}
+
+.home-light .i-m-anish {
+  position: absolute;
+  width: 288px;
+  top: -3pc;
+  left:15px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-light .span {
+  color: #000000;
+}
+
+.home-light .text-wrapper-10 {
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #bd3ecc;
+}
+
+.home-light .text-wrapper-11 {
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #727272; 
+}
+
+.home-light .wave {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 19px;
+  left: 288px;
+}
+
+.home-light .buttons {
+  position: absolute;
+  width: 379px;
+  height: 60px;
+  top: 660px;
+  left: 269px;
+}
+
+.home-light .overlap-4 {
+  position: relative;
+  width: 425px;
+  height: 110px;
+  top: -15px;
+  left: -25px;
+}
+
+.home-light .CV-button {
+  position: absolute;
+  width: 225px;
+  height: 110px;
+  top: 0;
+  left: 0;
+}
+
+.home-light .text-wrapper-12 {
+  position: absolute;
+  width: 136px;
+  top: 32px;
+  left: 45px;
+  font-family: "Segoe UI-Black", Helvetica;
+  font-weight: 800;
+  color: #fdfdfd;
+  font-size: 16px;
+  /* letter-spacing: 0; */
+  /* line-height: normal; */
+}
+
+.home-light .touch-button {
+  position: absolute;
+  width: 225px;
+  height: 110px;
+  top: 0;
+  left: 200px;
+}
+
+.home-light .text-wrapper-13 {
+  position: absolute;
+  width: 136px;
+  top: 32px;
+  left: 245px;
+  font-family: "Segoe UI-Black", Helvetica;
+  font-weight: 800;
+  color: #fdfdfd;
+  font-size: 16px;
+  /* letter-spacing: 0; */
+  /* line-height: normal; */
+}
+
+/* About page */
+.about-light {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-light .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.about-light .overlap {
+  position: relative;
+  height: 1021px;
+  top: 59px;
+}
+
+.about-light .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 1021px;
+  top: 0;
+  left: 0;
+}
+
+.about-light .div {
+  position: absolute;
+  width: 1442px;
+  height: 988px;
+  top: 0;
+  left: 0;
+}
+
+.about-light .vector {
+  position: absolute;
+  width: 436px;
+  height: 636px;
+  top: 88px;
+  left: 0;
+}
+
+.about-light .group {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 831px;
+  left: 113px;
+}
+
+.about-light .vector-wrapper {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 590px;
+  left: 113px;
+  background-image: url(./img/vector-2.svg);
+  background-size: 100% 100%;
+}
+
+.about-light .img {
+  position: absolute;
+  width: 11px;
+  height: 20px;
+  top: 7px;
+  left: 11px;
+}
+
+.about-light .group-2 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 639px;
+  left: 113px;
+}
+
+.about-light .group-3 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 688px;
+  left: 112px;
+}
+
+.about-light .overlap-group-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 737px;
+  left: 115px;
+}
+
+.about-light .img-wrapper {
+  position: relative;
+  width: 34px;
+  height: 34px;
+  top: -2px;
+  left: -2px;
+  border-radius: 17px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.about-light .vector-2 {
+  position: absolute;
+  width: 18px;
+  height: 22px;
+  top: 5px;
+  left: 5px;
+}
+
+.about-light .group-4 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 782px;
+  left: 113px;
+}
+
+.about-light .text-wrapper {
+  position: absolute;
+  width: 265px;
+  top: 1px;
+  left: 167px;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-light .text-wrapper-2 {
+  position: absolute;
+  width: 57px;
+  top: 5px;
+  left: 1150px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .text-wrapper-3 {
+  position: absolute;
+  width: 57px;
+  top: 5px;
+  left: 1039px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .text-wrapper-4 {
+  position: absolute;
+  width: 75px;
+  top: 5px;
+  left: 1261px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .text-wrapper-5 {
+  position: absolute;
+  width: 48px;
+  top: 5px;
+  left: 1390px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .group-5 {
+  position: absolute;
+  width: 1049px;
+  height: 564px;
+  top: 0;
+  left: 393px;
+}
+
+.about-light .this-is-it {
+  position: absolute;
+  width: 276px;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-light .span {
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+}
+
+.about-light .text-wrapper-6 {
+  font-size: 36px;
+}
+
+.about-light .anish-kr-sinha-is-an {
+  position: absolute;
+  width: 1045px;
+  top: 112px;
+  left: 0;
+  font-family: "Segoe UI-Light", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .text-wrapper-7 {
+  font-weight: 300;
+}
+
+.about-light .text-wrapper-8 {
+  font-family: "Segoe UI-Regular", Helvetica;
+}
+
+.about-light .line {
+  position: absolute;
+  width: 698px;
+  height: 1px;
+  top: 68px;
+  left: 276px;
+  object-fit: cover;
+}
+
+.about-light .line-2 {
+  position: absolute;
+  width: 349px;
+  height: 1px;
+  top: 564px;
+  left: 315px;
+  object-fit: cover;
+}
+
+.about-light .rectangle {
+  position: absolute;
+  width: 525px;
+  height: 803px;
+  top: 41px;
+  left: 0;
+  object-fit: cover;
+}
+
+.about-light .vector-3 {
+  position: absolute;
+  width: 350px;
+  height: 340px;
+  top: 648px;
+  left: 311px;
+}
+
+.about-light .overlap-2 {
+  position: absolute;
+  width: 630px;
+  height: 931px;
+  top: 90px;
+  left: 1290px;
+}
+
+.about-light .vector-4 {
+  position: absolute;
+  width: 439px;
+  height: 435px;
+  top: 496px;
+  left: 0;
+}
+
+.about-light .text-wrapper-9 {
+  position: absolute;
+  width: 216px;
+  height: 19px;
+  top: 702px;
+  left: 394px;
+  transform: rotate(-90deg);
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .vector-5 {
+  position: absolute;
+  width: 365px;
+  height: 827px;
+  top: 0;
+  left: 265px;
+}
+
+.about-light .group-6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 881px;
+  left: 115px;
+}
+
+.about-light .koo-black-icon {
+  position: absolute;
+  width: 20px;
+  height: 28px;
+  top: 1px;
+  left: 5px;
+}
+
+.about-light .line-3 {
+  position: absolute;
+  width: 30px;
+  height: 6px;
+  top: 956px;
+  left: 1778px;
+}
+
+.about-light .group-7 {
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  top: 0;
+  left: 112px;
+}
+
+.about-light .group-8 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 1769px;
+}
+
+.about-light .text-wrapper-10 {
+  position: absolute;
+  width: 78px;
+  top: 5px;
+  left: 1492px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-light .text-wrapper-11 {
+  position: absolute;
+  width: 73px;
+  top: 5px;
+  left: 1624px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
