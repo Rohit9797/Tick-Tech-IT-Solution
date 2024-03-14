@@ -1,1 +1,0 @@
-# Tick-Tech-IT-Solution
